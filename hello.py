@@ -1,2 +1,2 @@
-print("wo!oooo")
-print("hi iiiiiooooooo")
+print("uuuuuuoooo")
+print("hi iiiiioooommkmkooo")
