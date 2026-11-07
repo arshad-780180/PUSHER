@@ -1,2 +1,2 @@
 print("Hello, world!")
-pintt("hirrrriii")
+pintt("hi")
