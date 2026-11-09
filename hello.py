@@ -1,2 +1,2 @@
 print("uuuuuuoooo")
-print("hi iiiiioooommkmkooo")llll
+print("hi iiiiioooommkmkoo
